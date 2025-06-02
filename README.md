@@ -1,2 +1,2 @@
 # Try-Hack-Me-Lab
-All Try hack me lab notes
+All Try hack me labs Walkthrough
